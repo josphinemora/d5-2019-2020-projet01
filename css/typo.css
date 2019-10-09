@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+English+SC:400|Poppins:400');
+@import url('https://fonts.googleapis.com/css?family=Quattrocento:400|Poppins:400');
+
+html {font-size: 14px;}
+html {font-size: 14px;}
+
+body {
+  background-color: #F4E8DD;
+  font-weight: 50;
+  line-height: 1.45;
+  color: #333;
+}
+
+h1 {
+  margin: 2.75rem 0 1rem;
+  font-family: 'IM Fell English SC', serif;
+  font-weight: 400;
+  line-height: 1.15;
+  font-size: 3.5em;
+  text-align: center;
+  color: #494542;
+  margin-bottom: 1em;
+}
+
+h2 {
+  margin: 2.75rem 0 1rem;
+  font-family: 'IM Fell English SC', serif;
+  font-weight: 400;
+  line-height: 1.15;
+  font-size: 2.5em;
+  color: #494542;
+  margin-bottom: 1em;
+}
+
+p {
+  margin-bottom: 0.8em;
+  font-family: 'Quattrocento', sans-serif;
+  font-size: 1em;
+  text-align: justify;
+
+}
+
+.header-content2 {
+  font-family: 'Quattrocento', sans-serif;
+  font-size: 2em;
+  text-align: center;
+  padding-top: 2em;
+}
